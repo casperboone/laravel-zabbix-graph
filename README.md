@@ -1,4 +1,4 @@
-# Laravel Zabbix Graph
+# 📈 Laravel Zabbix Graph
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/casperboone/laravel-zabbix-graph.svg?style=flat-square)](https://packagist.org/packages/casperboone/laravel-zabbix-graph)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
