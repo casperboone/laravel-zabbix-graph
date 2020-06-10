@@ -17,7 +17,7 @@
     "require": {
         "php": "^7.0",
         "casperboone/zabbix-graph": "^1.0",
-        "illuminate/support": "~5.1"
+        "illuminate/support": "~5.1|~6.0"
     },
     "require-dev": {
         "orchestra/testbench": "^3.4.6",
